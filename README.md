@@ -1,11 +1,4 @@
- 1. To-Do List App
-A simple and interactive to-do list web app to help users manage their daily tasks efficiently. Includes add, delete, and mark-as-done features.
-
- 2. Calculator
-A clean, responsive calculator for basic arithmetic operations (add, subtract, multiply, divide). Built using HTML, CSS, and JavaScript.
-
- 3. Password Generator
-Generates strong, random passwords based on user-selected criteria (length, numbers, symbols, etc.). Ensures security and customizability.
-
- 4. Rock Paper Scissors Game
-A fun and interactive rock-paper-scissors game where users play against the computer. Tracks score and gives instant feedback on the result.
+| 1          | Password Generator         | A Python program to generate strong random passwords.                         | Custom length, includes uppercase/lowercase/numbers/symbols               |
+| 2          | To-Do List App            | A command-line tool to manage your daily tasks.                               | Add, delete, mark complete, and view tasks                                 |
+| 3          | Calculator                | A basic calculator for performing arithmetic operations.                      | Addition, subtraction, multiplication, division, input error handling      |
+| 4          | Rock-Paper-Scissors Game | A fun game where the user plays Rock-Paper-Scissors against the computer.     | Random computer choice, input check, replay option                         |
